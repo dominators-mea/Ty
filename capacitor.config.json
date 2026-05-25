@@ -1,0 +1,9 @@
+{
+  "appId": "com.yourname.myapp",
+  "appName": "MyApp",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "ios": {
+    "scheme": "App"
+  }
+}
